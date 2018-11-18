@@ -1,0 +1,7 @@
+C:\Users\Plamen\source\repos\ConcatenateDate\zvezdi4ki\bin\Debug\zvezdi4ki.exe.config
+C:\Users\Plamen\source\repos\ConcatenateDate\zvezdi4ki\bin\Debug\zvezdi4ki.exe
+C:\Users\Plamen\source\repos\ConcatenateDate\zvezdi4ki\bin\Debug\zvezdi4ki.pdb
+C:\Users\Plamen\source\repos\ConcatenateDate\zvezdi4ki\obj\Debug\zvezdi4ki.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ConcatenateDate\zvezdi4ki\obj\Debug\zvezdi4ki.exe
+C:\Users\Plamen\source\repos\ConcatenateDate\zvezdi4ki\obj\Debug\zvezdi4ki.pdb
+C:\Users\Plamen\source\repos\ConcatenateDate\zvezdi4ki\obj\Debug\zvezdi4ki.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Plamen\source\repos\slancheviOchila\diamand\obj\Debug\diamand.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\slancheviOchila\diamand\bin\Debug\diamand.exe.config
+C:\Users\Plamen\source\repos\slancheviOchila\diamand\bin\Debug\diamand.exe
+C:\Users\Plamen\source\repos\slancheviOchila\diamand\bin\Debug\diamand.pdb
+C:\Users\Plamen\source\repos\slancheviOchila\diamand\obj\Debug\diamand.exe
+C:\Users\Plamen\source\repos\slancheviOchila\diamand\obj\Debug\diamand.pdb
+C:\Users\Plamen\source\repos\slancheviOchila\diamand\obj\Debug\diamand.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Plamen\source\repos\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+C:\Users\Plamen\source\repos\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.exe
+C:\Users\Plamen\source\repos\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.pdb
+C:\Users\Plamen\source\repos\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\source\repos\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.exe
+C:\Users\Plamen\source\repos\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.pdb

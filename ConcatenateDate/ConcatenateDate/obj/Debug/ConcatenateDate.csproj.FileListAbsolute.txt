@@ -1,0 +1,7 @@
+C:\Users\Plamen\source\repos\ConcatenateDate\ConcatenateDate\bin\Debug\ConcatenateDate.exe.config
+C:\Users\Plamen\source\repos\ConcatenateDate\ConcatenateDate\bin\Debug\ConcatenateDate.exe
+C:\Users\Plamen\source\repos\ConcatenateDate\ConcatenateDate\bin\Debug\ConcatenateDate.pdb
+C:\Users\Plamen\source\repos\ConcatenateDate\ConcatenateDate\obj\Debug\ConcatenateDate.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\source\repos\ConcatenateDate\ConcatenateDate\obj\Debug\ConcatenateDate.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ConcatenateDate\ConcatenateDate\obj\Debug\ConcatenateDate.exe
+C:\Users\Plamen\source\repos\ConcatenateDate\ConcatenateDate\obj\Debug\ConcatenateDate.pdb

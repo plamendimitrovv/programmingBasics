@@ -1,0 +1,7 @@
+C:\Users\Plamen\source\repos\ConcatenateDate\elha\bin\Debug\elha.exe.config
+C:\Users\Plamen\source\repos\ConcatenateDate\elha\bin\Debug\elha.exe
+C:\Users\Plamen\source\repos\ConcatenateDate\elha\bin\Debug\elha.pdb
+C:\Users\Plamen\source\repos\ConcatenateDate\elha\obj\Debug\elha.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\source\repos\ConcatenateDate\elha\obj\Debug\elha.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ConcatenateDate\elha\obj\Debug\elha.exe
+C:\Users\Plamen\source\repos\ConcatenateDate\elha\obj\Debug\elha.pdb

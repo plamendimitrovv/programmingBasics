@@ -1,0 +1,7 @@
+C:\Users\Plamen\source\repos\ConcatenateDate\OddEvenNumbers\bin\Debug\OddEvenNumbers.exe.config
+C:\Users\Plamen\source\repos\ConcatenateDate\OddEvenNumbers\bin\Debug\OddEvenNumbers.exe
+C:\Users\Plamen\source\repos\ConcatenateDate\OddEvenNumbers\bin\Debug\OddEvenNumbers.pdb
+C:\Users\Plamen\source\repos\ConcatenateDate\OddEvenNumbers\obj\Debug\OddEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ConcatenateDate\OddEvenNumbers\obj\Debug\OddEvenNumbers.exe
+C:\Users\Plamen\source\repos\ConcatenateDate\OddEvenNumbers\obj\Debug\OddEvenNumbers.pdb
+C:\Users\Plamen\source\repos\ConcatenateDate\OddEvenNumbers\obj\Debug\OddEvenNumbers.csprojResolveAssemblyReference.cache
